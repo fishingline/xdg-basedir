@@ -1,0 +1,1 @@
+set -gx DVDCSS_CACHE $XDG_DATA_HOME/dvdcss
